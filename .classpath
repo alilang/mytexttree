@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="libs/database/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="libs/http/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/http/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="libs/http/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="libs/xml/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="libs/xml/jaxen-1.1-beta-6.jar"/>
+	<classpathentry kind="lib" path="libs/office/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="libs/office/poi-ooxml-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="libs/office/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="libs/office/poi-ooxml-schemas-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="libs/office/poi-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="libs/json/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="libs/json/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/json/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="libs/json/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/json/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="libs/json/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="libs/jsoup/jsoup-1.10.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
